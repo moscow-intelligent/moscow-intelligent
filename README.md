@@ -1,7 +1,9 @@
 ## Hello, my friend!
-My name is Ilya and I am a student at RTU MIREA
+My name is Ilya and I am a student at RTU MIREA.
 [My website](http://theonewhowaits.ru)
+
 [My telegram](https://t.me/lukavanhorn)
+
 I am interested in:
 - CTF
 - Software development
