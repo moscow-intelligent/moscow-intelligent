@@ -1,9 +1,9 @@
 ## Hello, my friend!
 My name is Ilya and I am a student at RTU MIREA.
+(Occupation): IKM SOFT. Head of Management
+[Website](https://ikmsoft.ru)
 
-[My website](http://theonewhowaits.ru)
-
-[My telegram](https://t.me/lukavanhorn)
+[My telegram](https://t.me/demkalive)
 
 I am interested in:
 - CTF
@@ -21,4 +21,4 @@ I have experience in:
 - DevOps (1 year)
 - Solidity ( < 1 year)
 
-I am available for hire. Contact me if you have an interesting opportunity :)
+Looking forward to any B2B partnership.
