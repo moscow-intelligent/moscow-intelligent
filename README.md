@@ -1,9 +1,11 @@
 ## Hello, my friend!
 My name is Ilya and I am a student at RTU MIREA.
-(Occupation): IKM SOFT. Head of Management
-[Website](https://ikmsoft.ru)
+<br>
+(Occupation): [IKM SOFT](https://ikmsoft.ru). Head of Management.
 
 [My telegram](https://t.me/demkalive)
+<br>
+Matrix: @ilya:matrix.ikmsoft.ru
 
 I am interested in:
 - CTF
@@ -15,10 +17,10 @@ I am interested in:
 I have experience in:
 - Python ( > 4 years)
 - Go (1 year)
-- C++ (2 years)
+- C++ ( > 3 years)
 - Jenkins (1 year)
-- Qt (3 years)
+- Qt ( > 3 years)
 - DevOps (1 year)
-- Solidity ( < 1 year)
+- Solidity (1 year)
 
 Looking forward to any B2B partnership.
