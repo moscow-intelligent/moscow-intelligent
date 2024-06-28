@@ -3,7 +3,7 @@ My name is Ilya and I am a student at RTU MIREA.
 <br>
 (Occupation): [IKM SOFT](https://ikmsoft.ru). Head of Management.
 
-[My telegram](https://t.me/demkalive)
+[My telegram](https://t.me/owl_management)
 <br>
 Matrix: @ilya:matrix.ikmsoft.ru
 
